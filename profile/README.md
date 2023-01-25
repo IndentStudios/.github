@@ -7,6 +7,7 @@
 
 <a href="https://indent.tebex.io/package/5487039">
   <img src="https://raw.githubusercontent.com/IndentStudios/assets/main/product-logos/car-snapper.png" alt="Indent FiveM Car Snapper" width="250px" height="250px" />
+  <br />
   Buy on Car Snapper
 </a>
 
@@ -14,6 +15,7 @@
 
 <a href="https://indent.tebex.io/package/5486790">
   <img src="https://raw.githubusercontent.com/IndentStudios/assets/main/product-logos/ped-locker.png" alt="Indent FiveM Car Snapper" width="250px" height="250px"/>
+  <br />
   Buy on Tebex
 </a>
 
@@ -21,5 +23,6 @@
 
 <a href="https://indent.tebex.io/package/5487039">
   <img src="https://raw.githubusercontent.com/IndentStudios/assets/main/product-logos/weed-farm.png" alt="Indent FiveM Weed Farm" width="250px" height="250px"/>
+  <br />
   Buy on Tebex
 </a>
